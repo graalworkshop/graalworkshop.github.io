@@ -12,6 +12,8 @@ opportunities with Graal on benchmarks and applications, developing new
 features and optimizations in Graal, creative and novel uses of the Graal
 infrastructure.
 
+Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitter.com/search?q=%23graalcgo2019&src=typd)!
+
 <img src="group.jpeg" class="rounded img-fluid">
 
 ## Presentations
