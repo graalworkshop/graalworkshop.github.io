@@ -34,9 +34,10 @@ infrastructure.
 
 ## Organizers
 
-Uma Srinivasan (Twitter),
-Chris Thalinger (Twitter),
-Flavio Brasil (Twitter)
+[Uma Srinivasan](https://twitter.com/umatweep) (Twitter),
+[Chris Thalinger](https://twitter.com/christhalinger) (Twitter),
+[Flavio Brasil](https://twitter.com/flaviowbrasil) (Twitter),
+[Danny McClanahan](https://twitter.com/hipsterelectron) (Twitter)
 
 ## Program Committee
 
@@ -49,4 +50,4 @@ Flavio Brasil (Twitter)
 
 ## Other years
 
-* 2020, San Diego (upcoming)
+* 2020 *(planned)*
