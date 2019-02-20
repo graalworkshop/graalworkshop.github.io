@@ -23,7 +23,7 @@ Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitte
 
 * Keynote: **[Where Graal Came From and Where It’s Going](graal-from-and-going.pdf)** Speaker: [Chris Seaton](https://chrisseaton.com) (Oracle Labs)
 
-* **The Graal Economy Configuration for First-Tier Just-In-Time Compilation** Speaker: Aleksandar Prokopec (Oracle Labs)
+* **[The Graal Economy Configuration for First-Tier Just-In-Time Compilation](http://aleksandar-prokopec.com/impress/graal-economy#/step-1)** Speaker: Aleksandar Prokopec (Oracle Labs)
 
 * **Graal: How to use the new JVM JIT compiler in real life** Speaker: Chris Thalinger (Twitter [@christhalinger](https://twitter.com/christhalinger))
 
