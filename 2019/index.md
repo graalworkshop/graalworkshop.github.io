@@ -12,6 +12,8 @@ opportunities with Graal on benchmarks and applications, developing new
 features and optimizations in Graal, creative and novel uses of the Graal
 infrastructure.
 
+Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitter.com/search?q=%23graalcgo2019&src=typd)!
+
 <img src="group.jpeg" class="rounded img-fluid">
 
 ## Presentations
@@ -34,9 +36,10 @@ infrastructure.
 
 ## Organizers
 
-Uma Srinivasan (Twitter),
-Chris Thalinger (Twitter),
-Flavio Brasil (Twitter)
+[Uma Srinivasan](https://twitter.com/umatweep) (Twitter),
+[Chris Thalinger](https://twitter.com/christhalinger) (Twitter),
+[Flavio Brasil](https://twitter.com/flaviowbrasil) (Twitter),
+[Danny McClanahan](https://twitter.com/hipsterelectron) (Twitter)
 
 ## Program Committee
 
@@ -49,4 +52,4 @@ Flavio Brasil (Twitter)
 
 ## Other years
 
-* 2020, San Diego (upcoming)
+* 2020 *(planned)*
