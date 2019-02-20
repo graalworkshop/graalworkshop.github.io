@@ -30,7 +30,7 @@ infrastructure.
 
 * **[Eliminating warmup cost for Function-as-a-Service using Ahead-of-Time compilation](FaaS-and-Dynamic-AOT.pdf)** Speaker: Chuansheng Lu (Alibaba)
 
-* **Swapping in Graal native-image to multiply Pants JVM build performance** Speaker: Daniel McClanahan (Twitter)
+* **[Swapping in Graal native-image to multiply Pants JVM build performance](graal-pants-native-image.pdf)** Speaker: Daniel McClanahan (Twitter)
 
 ## Organizers
 
