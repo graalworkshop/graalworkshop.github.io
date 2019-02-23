@@ -29,7 +29,7 @@ Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitte
 
 * **[Dynamic Analysis for Node.js with NodeProf on GraalVM](Dynamic-Analysis-for-Node.js-with-NodeProf-on-GraalVM.pdf)** Speaker: [Haiyang Sun](http://haiyang-sun.github.io/) (Università della Svizzera italiana)
 
-* **Scala Loves Graal** Speaker: Flavio Brasil (Twitter [@flaviowbrasil](https://twitter.com/flaviowbrasil))
+* **[Scala ❤️ Graal](Scala ❤️ Graal.pdf)** Speaker: Flavio Brasil (Twitter [@flaviowbrasil](https://twitter.com/flaviowbrasil))
 
 * **Performance Characterization and Optimizations in Graal at Intel** Speaker: Jean-Philippe Halimi (Intel Corporation)
 
