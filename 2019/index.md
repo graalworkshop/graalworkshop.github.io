@@ -31,7 +31,7 @@ Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitte
 
 * **[Scala ❤️ Graal](Scala ❤️ Graal.pdf)** Speaker: Flavio Brasil (Twitter [@flaviowbrasil](https://twitter.com/flaviowbrasil))
 
-* **Performance Characterization and Optimizations in Graal at Intel** Speaker: Jean-Philippe Halimi (Intel Corporation)
+* **[Performance Characterization and Optimizations in Graal at Intel](Performance-Characterization-And-Optimizations-In-Graal-At-Intel.pdf)** Speaker: [Jean-Philippe Halimi](mailto:jean-philippe.halimi@intel.com) (Intel Corporation)
 
 * **[Eliminating warmup cost for Function-as-a-Service using Ahead-of-Time compilation](FaaS-and-Dynamic-AOT.pdf)** Speaker: Chuansheng Lu (Alibaba)
 
