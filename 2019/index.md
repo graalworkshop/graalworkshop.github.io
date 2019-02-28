@@ -14,9 +14,9 @@ infrastructure.
 
 Check out and join the discussion on Twitter in [`#graalcgo2019`](https://twitter.com/search?q=%23graalcgo2019&src=typd)!
 
-<p float="left">
-<img src="group.jpeg" class="rounded img-fluid" width="500" />
-<img src="group2.jpeg" class="rounded img-fluid" width="500" />
+<p style="text-align: center">
+<img src="group.jpeg" class="rounded img-fluid" style="max-width: 45%" />
+<img src="group2.jpeg" class="rounded img-fluid" style="max-width: 45%" />
 </p>
 
 ## Presentations
