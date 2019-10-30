@@ -12,4 +12,4 @@ infrastructure.
 # Editions
 
 * [2019, Washington DC](2019/)
-* [2020, San Diego](2020/)
+* [2020, San Diego CA](2020/)
