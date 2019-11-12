@@ -26,7 +26,9 @@ Topics of interest (not limited to):
 - informal networking over coffee breaks and lunch.
 
 ## Talk proposal submission format
-Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. More details on submissions are forthcoming. The deadline for receiving submissions is December 15, 2019. Notifications to authors will be provided by Jan 6, 2020.
+Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is December 15, 2019. Notifications to authors will be provided by Jan 6, 2020.
+
+[Submit your proposals](https://easychair.org/cfp/graalcgo2020).
 
 At this point in time we are looking for a handful of additional PC members to help review submissions. Please let us know by Monday Nov. 4th, if a representative from your organization is interested in volunteering to be a PC member.
 
