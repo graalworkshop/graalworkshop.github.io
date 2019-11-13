@@ -30,15 +30,13 @@ Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. T
 
 [Submit your proposals](https://easychair.org/cfp/graalcgo2020).
 
-At this point in time we are looking for a handful of additional PC members to help review submissions. Please let us know by Monday Nov. 4th, if a representative from your organization is interested in volunteering to be a PC member.
-
 ## Organizers
 
-Uma Srinivasan ([usrinivasan@twitter.com](mailto:usrinivasan@twitter.com))
+Uma Srinivasan ([usrinivasan@twitter.com](mailto:usrinivasan@twitter.com)), Chris Thalinger ([cthalinger@twitter.com](mailto:cthalinger@twitter.com)), Flavio Brasil ([fbrasil@twitter.com](mailto:fbrasil@twitter.com))
 
-Chris Thalinger ([cthalinger@twitter.com](mailto:cthalinger@twitter.com))
+### Program Committee
 
-Flavio Brasil ([fbrasil@twitter.com](mailto:fbrasil@twitter.com))
+Chris Seaton (Shopify), Christian Wimmer (Oracle Labs), Tianxiao Gu (Alibaba), Sandhya Viswanathan (Intel)
 
 ## Previous years
 
