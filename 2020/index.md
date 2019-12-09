@@ -36,7 +36,7 @@ Uma Srinivasan ([usrinivasan@twitter.com](mailto:usrinivasan@twitter.com)), Chri
 
 ### Program Committee
 
-Chris Seaton (Shopify), Christian Wimmer (Oracle Labs), Tianxiao Gu (Alibaba), Sandhya Viswanathan (Intel)
+Chris Seaton (Shopify), Christian Wimmer (Oracle Labs), Tianxiao Gu (Alibaba), Sandhya Viswanathan (Intel), Charles Nutter (Red Hat)
 
 ## Previous years
 
