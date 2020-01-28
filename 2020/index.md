@@ -55,7 +55,7 @@ Topics of interest (not limited to):
 
 ## Organizers
 
-Uma Srinivasan (Twitter: @umatweep, [usrinivasan@twitter.com](mailto:usrinivasan@twitter.com)), Chris Thalinger (Twitter: @christhalinger, [cthalinger@twitter.com](mailto:cthalinger@twitter.com)), Flavio Brasil (Twitter: @flaviowbrasil, [fbrasil@twitter.com](mailto:fbrasil@twitter.com))
+Uma Srinivasan (Twitter: [@umatweep](https://twitter.com/umatweep)), Chris Thalinger (Twitter: [@christhalinger](https://twitter.com/christhalinger)), Flavio Brasil (Twitter: [@flaviowbrasil](https://twitter.com/flaviowbrasil))
 
 ### Program Committee
 
