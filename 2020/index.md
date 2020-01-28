@@ -11,7 +11,7 @@ title: 2020
 
 **Where:** San Diego, CA, USA
 
-Researchers and practitioners are invited to the second Graal compiler workshop to be held at CGO 2020. The workshop is co-located with CC, HPCA, and PPoPP in San Diego, CA.
+Researchers and practitioners are invited to participate in the second Graal compiler workshop to be held at CGO 2020. The workshop is co-located with CC, HPCA, and PPoPP in San Diego, CA.
 
 Topics of interest (not limited to):
 - making effective use of the Graal JIT compiler
@@ -19,20 +19,42 @@ Topics of interest (not limited to):
 - developing new features and optimizations in Graal
 - creative and novel uses of the Graal infrastructure
 
-## Workshop Format
-- Invited keynote speech
-- approximately 5 (30-minute) presentations
-- Panel discussion
-- informal networking over coffee breaks and lunch.
+## Program 
+    9:00 AM - Welcome
 
-## Talk proposal submission format
-Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is December 15, 2019. Notifications to authors will be provided by Jan 6, 2020.
+    9:15 AM - Keynote: Tom Rodriguez (Oracle Labs)
 
-[Submit your proposals](https://easychair.org/cfp/graalcgo2020).
+    10:15 AM - How to statically compile a serverless application to survive the biggest bursty e-commerce data traffic in the world - Ziyi Lin, Yifei Zhang, Wei Kuai and Sanhong Li (Alibaba Group Inc.)
+
+    10:45 AM - Break
+
+    11:00 AM - JRuby on Graal: Performance and AOT explorations - Charles Nutter (Red Hat Inc.)
+
+    11:30 PM - GraalVM as a static analysis framework - Christian Wimmer (Oracle Labs)
+
+    12:00 PM - Lunch
+
+    1:30 PM - Experimenting with Neuroevolution for Graal Inlining Heuristics - Makarand Parigi (U. of Michigan)
+
+    2:00 PM - Visualizing Graal - Chris Seaton (Shopify)
+
+    2:30 PM - Break
+
+    2:45 PM - Autovectorization in Graal - David Degazio (U. of Michigan), Nik Vangerow (Imperial College London)
+
+    3:15 PM - Getting Pants Performance for Free via Parallelism using Graal native-image - Daniel McClanahan (Twitter Inc.)
+
+    3:45 PM - Break
+
+    4:00 PM - Panel Session
+
+    5:00 PM - Close
+    
+    Dinner with workshop participants 
 
 ## Organizers
 
-Uma Srinivasan ([usrinivasan@twitter.com](mailto:usrinivasan@twitter.com)), Chris Thalinger ([cthalinger@twitter.com](mailto:cthalinger@twitter.com)), Flavio Brasil ([fbrasil@twitter.com](mailto:fbrasil@twitter.com))
+Uma Srinivasan (Twitter: @umatweep, [usrinivasan@twitter.com](mailto:usrinivasan@twitter.com)), Chris Thalinger (Twitter: @christhalinger, [cthalinger@twitter.com](mailto:cthalinger@twitter.com)), Flavio Brasil (Twitter: @flaviowbrasil, [fbrasil@twitter.com](mailto:fbrasil@twitter.com))
 
 ### Program Committee
 
