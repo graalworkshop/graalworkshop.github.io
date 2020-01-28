@@ -24,7 +24,8 @@ Topics of interest (not limited to):
 
     9:15 AM - Keynote: Tom Rodriguez (Oracle Labs)
 
-    10:15 AM - How to statically compile a serverless application to survive the biggest bursty e-commerce data traffic in the world - Ziyi Lin, Yifei Zhang, Wei Kuai and Sanhong Li (Alibaba Group Inc.)
+    10:15 AM - How to statically compile a serverless application to survive the biggest bursty e-commerce data traffic 
+               in the world - Ziyi Lin, Yifei Zhang, Wei Kuai and Sanhong Li (Alibaba Group Inc.)
 
     10:45 AM - Break
 
