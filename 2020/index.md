@@ -22,7 +22,7 @@ Topics of interest (not limited to):
 ## Program 
     9:00 AM - Welcome
 
-    9:15 AM - **Keynote:**  Tom Rodriguez (Oracle Labs)
+    9:15 AM - Keynote:  Tom Rodriguez (Oracle Labs)
               Title:    Graal as a native JIT in GraalVM
               Abstract: This talk will discuss the design and implementation of libgraal, the
                         Graal and Truffle JIT compiled into a static library using Native Image
@@ -58,7 +58,7 @@ Topics of interest (not limited to):
 
     3:45 PM - Break
 
-    4:00 PM - **Panel Session**
+    4:00 PM - Panel Session
               Topic: The GraalVM Compiler: looking ahead with 2020 vision, where does the community want it to be 
                      in a year?
               Moderator: Chris Thalinger (@christhalinger)
