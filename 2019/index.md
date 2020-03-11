@@ -54,4 +54,4 @@ Flavio Brasil (Twitter [@flaviowbrasil](https://twitter.com/flaviowbrasil))
 
 ## Other years
 
-* [2020, San Diego CA](../2020/) (upcoming)
+* [2020, San Diego CA]
