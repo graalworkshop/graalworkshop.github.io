@@ -23,31 +23,32 @@ infrastructure and growing the Graal CE open source community.
 
 
 ## Program 
-    9:00 AM - Welcome
+9:00 AM - Welcome
 
-    9:15 AM - Keynote:  Tom Rodriguez (Oracle Labs)
-              Title:    **[Graal as a native JIT in GraalVM (Graal Workshop libgraal.pdf)]**
-              Abstract: This talk will discuss the design and implementation of libgraal, the
-                        Graal and Truffle JIT compiled into a static library using Native Image
-                        that is used as the default JIT in GraalVM. It will describe the
-                        challenges of interfacing libgraal with HotSpot, the way native
-                        compilation mode differs from the pure Java compilation mode and the
-                        various ways Substrate technologies are used within the library itself.
-              Bio:      Tom Rodriguez started worked on the JDK around 1.1 and worked on HotSpot
-                        starting in 1.4, primarily on the client and server compilers.  For the
-                        last six years he's been a member of the Graal compiler team and was the
-                        primary implementor of libgraal.
+9:15 AM - Keynote:  Tom Rodriguez (Oracle Labs)
+Title:    **[Graal as a native JIT in GraalVM](Graal_Workshop_libgraal.pdf)**
+Abstract: This talk will discuss the design and implementation of libgraal, the
+                    Graal and Truffle JIT compiled into a static library using Native Image
+                    that is used as the default JIT in GraalVM. It will describe the
+                    challenges of interfacing libgraal with HotSpot, the way native
+                    compilation mode differs from the pure Java compilation mode and the
+                    various ways Substrate technologies are used within the library itself.
+										
+Bio:  Tom Rodriguez started worked on the JDK around 1.1 and worked on HotSpot
+                    starting in 1.4, primarily on the client and server compilers.  For the
+                    last six years he's been a member of the Graal compiler team and was the
+                    primary implementor of libgraal.
 
-    10:15 AM - **[How to statically compile a serverless application to survive the biggest bursty e-commerce data traffic 
-               in the world (GraalWorkshop_cgo2020_how_to_static.pdf)]** - Ziyi Lin, Yifei Zhang, Wei Kuai and Sanhong Li (Alibaba Group Inc.)
+10:15 AM - **[How to statically compile a serverless application to survive the biggest bursty e-commerce data traffic 
+               in the world](GraalWorkshop_cgo2020_how_to_static.pdf)** - Ziyi Lin, Yifei Zhang, Wei Kuai and Sanhong Li (Alibaba Group Inc.)
 
-    10:45 AM - Break
+10:45 AM - Break
 
-    11:00 AM - **[JRuby on Graal: Performance and AOT explorations (CGO GraalVM Workshop - JRuby.pdf)]** - Charles Nutter (Red Hat Inc.)
+11:00 AM - **[JRuby on Graal: Performance and AOT explorations](CGO_GraalVM_Workshop_JRuby.pdf)** - Charles Nutter (Red Hat Inc.)
 
-    11:30 PM - **[GraalVM as a static analysis framework (2020-02-22 Static Analysis CGO workshop.pdf)]** - Christian Wimmer (Oracle Labs)
+11:30 PM - **[GraalVM as a static analysis framework](2020-02-22_Static_Analysis_CGO_workshop.pdf)** - Christian Wimmer (Oracle Labs)
 
-    12:00 PM - Lunch
+12:00 PM - Lunch
 
     1:30 PM - Experimenting with Neuroevolution for Graal Inlining Heuristics - Makarand Parigi (U. of Michigan)
 
