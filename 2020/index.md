@@ -26,7 +26,7 @@ infrastructure and growing the Graal CE open source community.
 9:00 AM - Welcome
 
 9:15 AM - Keynote:  Tom Rodriguez (Oracle Labs)
-Title:    **[Graal as a native JIT in GraalVM](Graal_Workshop_libgraal.pdf)**
+Title:    **[Graal as a native JIT in GraalVM](libgraal.pdf)**
 Abstract: This talk will discuss the design and implementation of libgraal, the
                     Graal and Truffle JIT compiled into a static library using Native Image
                     that is used as the default JIT in GraalVM. It will describe the
@@ -44,9 +44,9 @@ Bio:  Tom Rodriguez started worked on the JDK around 1.1 and worked on HotSpot
 
 10:45 AM - Break
 
-11:00 AM - **[JRuby on Graal: Performance and AOT explorations](CGO_GraalVM_Workshop_JRuby.pdf)** - Charles Nutter (Red Hat Inc.)
+11:00 AM - **[JRuby on Graal: Performance and AOT explorations](JRuby.pdf)** - Charles Nutter (Red Hat Inc.)
 
-11:30 PM - **[GraalVM as a static analysis framework](2020-02-22_Static_Analysis_CGO_workshop.pdf)** - Christian Wimmer (Oracle Labs)
+11:30 PM - **[GraalVM as a static analysis framework](StaticAnalysis.pdf)** - Christian Wimmer (Oracle Labs)
 
 12:00 PM - Lunch
 
