@@ -4,20 +4,23 @@ title: 2020
 ---
 
 # Science, Art, Voodoo: Using and Developing The Graal Compiler
+The 2020 [Graal Workshop](/) was held at [CGO](http://cgo.org/cgo2020/) in
+San Diego, CA on 22nd February.
 
-**What:** second Graal workshop at CGO [www.cgo.org](https://www.cgo.org)
+Checkout the presentations available on Twitter [`#graalcgo2020`](https://twitter.com/search?q=%23graalcgo2020&src=typd)!
 
-**When:** Feb. 22nd, 2020
+<p style="text-align: center">
+<img src="graalcgo2020.jpeg" class="rounded img-fluid" style="max-width: 100%" />
+</p>
 
-**Where:** San Diego, CA, USA
 
-Researchers and practitioners are invited to participate in the second Graal compiler workshop to be held at CGO 2020. The workshop is co-located with CC, HPCA, and PPoPP in San Diego, CA.
+Topics for discussion included making effective use of the [Graal
+compiler](https://github.com/oracle/graal), performance evaluations and
+opportunities with Graal on benchmarks and applications, developing new
+features and optimizations in Graal, creative and novel uses of the Graal
+infrastructure and growing the Graal CE open source community.
 
-Topics of interest (not limited to):
-- making effective use of the Graal JIT compiler
-- performance evaluations and opportunities with Graal on benchmarks and applications
-- developing new features and optimizations in Graal
-- creative and novel uses of the Graal infrastructure
+
 
 ## Program 
     9:00 AM - Welcome
