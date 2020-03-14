@@ -44,7 +44,7 @@ Bio:  Tom Rodriguez started worked on the JDK around 1.1 and worked on HotSpot s
 
 1:30 PM - **[Experimenting with Neuroevolution for Graal Inlining Heuristics](NeuroevolutionInlining.pdf)** - Makarand Parigi (U. of Michigan)
 
-2:00 PM - **[Visualizing Graal](VisualizingGraal)** - Chris Seaton (Shopify)
+2:00 PM - **[Visualizing Graal](VisualizingGraal.pdf)** - Chris Seaton (Shopify)
 
 2:30 PM - Break
 
