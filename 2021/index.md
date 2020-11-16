@@ -36,11 +36,11 @@ Submission details forthcoming.
 
 ## Organizers
 
-| Name | Email | Twitter |
-| --- | :--- | :--- | 
-| Uma Srinivasan | [usrinivasan@twitter.com](mailto:usrinivasan@twitter.com) | [@umatweep](https://twitter.com/umatweep) |
-| Niklas Vangerow | [nvangerow@twitter.com](mailto:nvangerow@twitter.com) | [@nvgrw](https://twitter.com/nvgrw)
-| Flavio Brasil | [fbrasil@twitter.com](mailto:fbrasil@twitter.com) | [@flaviusbraz](https://twitter.com/flaviusbraz)
+| Name            | Email                                                     | Twitter                                         |
+| --------------- | :-------------------------------------------------------- | :---------------------------------------------- |
+| Uma Srinivasan  | [usrinivasan@twitter.com](mailto:usrinivasan@twitter.com) | [@umatweep](https://twitter.com/umatweep)       |
+| Niklas Vangerow | [nvangerow@twitter.com](mailto:nvangerow@twitter.com)     | [@nvgrw](https://twitter.com/nvgrw)             |
+| Flavio Brasil   | [fbrasil@twitter.com](mailto:fbrasil@twitter.com)         | [@flaviusbraz](https://twitter.com/flaviusbraz) |
 {:.table .table-sm}
 
 ### Program Committee
