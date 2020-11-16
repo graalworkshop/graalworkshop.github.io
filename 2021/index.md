@@ -43,7 +43,7 @@ Submission details forthcoming.
 | Flavio Brasil   | [fbrasil@twitter.com](mailto:fbrasil@twitter.com)         | [@flaviusbraz](https://twitter.com/flaviusbraz) |
 {:.table .table-sm}
 
-### Program Committee
+## Program Committee
 
 TBD
 
