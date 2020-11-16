@@ -32,6 +32,8 @@ We may be able to accommodate more talks of shorter duration depending on submis
 ## Talk proposal submission format
 Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is December 18, 2020. Notifications to authors will be provided by January 11, 2021.
 
+Submission details forthcoming.
+
 ## Organizers
 
 | Name | Email | Twitter |
