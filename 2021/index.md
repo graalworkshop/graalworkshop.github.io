@@ -34,8 +34,6 @@ Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. T
 
 [Submit your proposals](https://easychair.org/conferences/?conf=graalcgo2021).
 
-Submission details forthcoming.
-
 ## Organizers
 
 | Name            | Email                                                     | Twitter                                         |
