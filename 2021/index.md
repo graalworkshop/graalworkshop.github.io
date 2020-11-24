@@ -45,7 +45,7 @@ Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. T
 
 ## Program Committee
 
-TBD
+Chris Seaton (Shopify), Christian Wimmer (Oracle Labs), David Leopoldseder (Oracle Labs/JKU Linz), Niklas Vangerow (Twitter), Tianxiao Gu (Alibaba)
 
 ## Previous years
 
