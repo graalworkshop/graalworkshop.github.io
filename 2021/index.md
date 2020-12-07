@@ -7,7 +7,7 @@ title: 2021
 
 **What:** Third Graal Workshop at [CGO](https://www.cgo.org).
 
-**When:** February 27, 2021. Timezone TBD.
+**When:** February 27, 2021. 9am-1pm + 5pm-9pm EST (UTC-5).
 
 **Where:** Virtual.
 
