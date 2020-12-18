@@ -30,7 +30,7 @@ Talk about the workshop on Twitter: [#graalcgo2021](https://twitter.com/search?q
 We may be able to accommodate more talks of shorter duration depending on submissions.
 
 ## Talk proposal submission format
-Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is December 18, 2020. Notifications to authors will be provided by January 11, 2021.
+Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions has been extended to December 23, 2020. Notifications to authors will be provided by January 11, 2021.
 
 [Submit your proposals](https://easychair.org/conferences/?conf=graalcgo2021).
 
