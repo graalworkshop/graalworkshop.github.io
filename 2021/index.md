@@ -11,7 +11,7 @@ title: 2021
 
 **Where:** Virtual.
 
-Researchers and practitioners are invited to the Third Graal Workshop to be held at [CGO 2021](https://conf.researchr.org/home/cgo-2021). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2021), [CC](https://conf.researchr.org/home/CC-2021) and [HPCA](https://hpca-conf.org/2021/).
+Researchers and practitioners are invited to participate in the Third Graal Workshop at [CGO 2021](https://conf.researchr.org/home/cgo-2021). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2021), [CC](https://conf.researchr.org/home/CC-2021) and [HPCA](https://hpca-conf.org/2021/).
 
 Topics of interest (not limited to):
 - making effective use of the [GraalVM compiler](https://github.com/oracle/graal),
@@ -19,7 +19,7 @@ Topics of interest (not limited to):
 - developing new features and optimizations in GraalVM,
 - creative and novel uses of the GraalVM compiler infrastructure.
 
-Talk about the workshop on Twitter: [#graalcgo2021](https://twitter.com/search?q=%23graalcgo2021).
+Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/search?q=%23graalcgo2021) and follow us [@graalcgo](https://twitter.com/graalcgo).
 
 ## Workshop format
 - Invited keynote speech,
@@ -27,7 +27,7 @@ Talk about the workshop on Twitter: [#graalcgo2021](https://twitter.com/search?q
 - panel discussion,
 - virtual breakout rooms.
 
-We may be able to accommodate more talks of shorter duration depending on submissions.
+*Submissions closed on December 23, 2020 and authors were notified by January 11, 2021.*
 
 ## Talk proposal submission format
 Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions has been extended to December 23, 2020. Notifications to authors will be provided by January 11, 2021.
