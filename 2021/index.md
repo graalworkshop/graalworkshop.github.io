@@ -29,10 +29,21 @@ Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/sea
 
 *Submissions closed on December 23, 2020 and authors were notified by January 11, 2021.*
 
-## Talk proposal submission format
-Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions has been extended to December 23, 2020. Notifications to authors will be provided by January 11, 2021.
+## Program
 
-[Submit your proposals](https://easychair.org/conferences/?conf=graalcgo2021).
+Times TBC.
+
+| Title                                                                                  | Author(s)                                   |
+| :------------------------------------------------------------------------------------- | :------------------------------------------ |
+| Babashka: a native Clojure interpreter for scripting.                                  | Michiel Borkent                             |
+| GraalVM at Facebook                                                                    | Chen Li                                     |
+| Improving Compiler Optimizations by Employing Machine Learning                         | Raphael Mosaner                             |
+| One more gap bridged towards practice -- support serialization feature in native image | Ziyi Lin, Wei Kuai, and Sanhong Li          |
+| Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
+| Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
+| Tracking Performance of Graal on Public Benchmarks                                     | Petr Tuma, Vojtěch Horký, and Lubomír Bulej |
+| Truffle Startup and Warmup Challenges and Opportunities                                | Chris Seaton                                |
+{:.table .table-sm}
 
 ## Organizers
 
