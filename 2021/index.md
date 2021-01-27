@@ -11,6 +11,17 @@ title: 2021
 
 **Where:** Virtual.
 
+<style>
+  .registration {
+    text-decoration: underline;
+    font-size: 3vw;
+    text-align: center;
+  }
+</style>
+
+[REGISTER TO ATTEND](https://conf.researchr.org/attending/cgo-2021/registration)
+{:.registration}
+
 Researchers and practitioners are invited to participate in the Third Graal Workshop at [CGO 2021](https://conf.researchr.org/home/cgo-2021). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2021), [CC](https://conf.researchr.org/home/CC-2021) and [HPCA](https://hpca-conf.org/2021/).
 
 Topics of interest (not limited to):
