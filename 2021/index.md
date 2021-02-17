@@ -44,19 +44,19 @@ Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/sea
 
 All times EST (UTC-5).
 
-| Start    | End      | Title                                                                                  | Speaker(s)                                  |
-| -------: | -------: | :------------------------------------------------------------------------------------- | :------------------------------------------ |
-|  8:00 AM |  9:00 AM | Welcome and keynote: Performance Benchmarking GraalVM                                  | François Farquet                            |
-|  9:00 AM |  9:30 AM | Babashka: a native Clojure interpreter for scripting.                                  | Michiel Borkent                             |
-|  9:30 AM | 10:00 AM | Truffle Startup and Warmup Challenges and Opportunities                                | Chris Seaton                                |
-| 10:00 AM | 10:30 AM | One more gap bridged towards practice -- support serialization feature in native image | Ziyi Lin, Wei Kuai, and Sanhong Li          |
-| 10:30 AM | 11:00 AM | Improving Compiler Optimizations by Employing Machine Learning                         | Raphael Mosaner                             |
-| 11:00 AM | 11:30 AM | GraalVM at Facebook                                                                    | Chen Li                                     |
-| 11:30 AM | 12:00 PM | Tracking Performance of Graal on Public Benchmarks                                     | Petr Tuma, Vojtěch Horký, and Lubomír Bulej |
-| 12:00 PM |  3:00 PM | **Break**                                                                              |                                             |
-|  3:00 PM |  3:30 PM | Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
-|  3:30 PM |  4:00 PM | Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
-|  4:00 PM |  5:00 PM | Panel Session                                                                          |                                             |
+| Start         | End           | Title                                                                                  | Speaker(s)                                  |
+| ------------: | ------------: | :------------------------------------------------------------------------------------- | :------------------------------------------ |
+|  8:00&nbsp;AM |  9:00&nbsp;AM | Welcome and keynote: Performance Benchmarking GraalVM                                  | François Farquet                            |
+|  9:00&nbsp;AM |  9:30&nbsp;AM | Babashka: a native Clojure interpreter for scripting.                                  | Michiel Borkent                             |
+|  9:30&nbsp;AM | 10:00&nbsp;AM | Truffle Startup and Warmup Challenges and Opportunities                                | Chris Seaton                                |
+| 10:00&nbsp;AM | 10:30&nbsp;AM | One more gap bridged towards practice -- support serialization feature in native image | Ziyi Lin, Wei Kuai, and Sanhong Li          |
+| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving Compiler Optimizations by Employing Machine Learning                         | Raphael Mosaner                             |
+| 11:00&nbsp;AM | 11:30&nbsp;AM | GraalVM at Facebook                                                                    | Chen Li                                     |
+| 11:30&nbsp;AM | 12:00&nbsp;PM | Tracking Performance of Graal on Public Benchmarks                                     | Petr Tuma, Vojtěch Horký, and Lubomír Bulej |
+| 12:00&nbsp;PM |  3:00&nbsp;PM | **Break**                                                                              |                                             |
+|  3:00&nbsp;PM |  3:30&nbsp;PM | Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
+|  3:30&nbsp;PM |  4:00&nbsp;PM | Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
+|  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session                                                                          |                                             |
 {:.table .table-sm}
 
 ## Organizers
