@@ -3,7 +3,7 @@ layout: year
 title: 2021
 ---
 
-# Science, Art, Voodoo: Using and Developing The Graal Compiler
+# Science, Art, Magic: Using and Developing The Graal Compiler
 
 **What:** Third Graal Workshop at [CGO](https://www.cgo.org).
 
