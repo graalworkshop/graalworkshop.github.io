@@ -32,21 +32,14 @@ Topics of interest (not limited to):
 
 Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/search?q=%23graalcgo2021) and follow us [@graalcgo](https://twitter.com/graalcgo).
 
-## Workshop format
-- Invited keynote speech,
-- approximately 5 (30-minute) presentations,
-- panel discussion,
-- virtual breakout rooms.
-
-*Submissions closed on December 23, 2020 and authors were notified by January 11, 2021.*
-
 ## Program
 
 All times EST (UTC-5).
 
 | Start         | End           | Title                                                                                  | Speaker(s)                                  |
 | ------------: | ------------: | :------------------------------------------------------------------------------------- | :------------------------------------------ |
-|  8:00&nbsp;AM |  9:00&nbsp;AM | Welcome and keynote: Performance Benchmarking GraalVM                                  | François Farquet                            |
+|  8:00&nbsp;AM |  8:05&nbsp;AM | Welcome                                                                                | Uma Srinivasan                              |
+|  8:05&nbsp;AM |  9:00&nbsp;AM | Keynote: Explore speedup opportunities in the GraalVM compiler                         | François Farquet                            |
 |  9:00&nbsp;AM |  9:30&nbsp;AM | Babashka: a native Clojure interpreter for scripting.                                  | Michiel Borkent                             |
 |  9:30&nbsp;AM | 10:00&nbsp;AM | Truffle Startup and Warmup Challenges and Opportunities                                | Chris Seaton                                |
 | 10:00&nbsp;AM | 10:30&nbsp;AM | One more gap bridged towards practice -- support serialization feature in native image | Ziyi Lin, Wei Kuai, and Sanhong Li          |
@@ -57,6 +50,15 @@ All times EST (UTC-5).
 |  3:00&nbsp;PM |  3:30&nbsp;PM | Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
 |  3:30&nbsp;PM |  4:00&nbsp;PM | Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
 |  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session                                                                          |                                             |
+{:.table .table-sm}
+
+### Keynote
+
+| ------------ | --- |
+| **Speaker**  | François Farquet (Oracle Labs)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| **Title**    | Explore speedup opportunities in the GraalVM compiler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
+| **Abstract** | This talk will cover the different approaches the GraalVM compiler team applies in its quest to a better performing compiler, release after release. Regression tracking or comparison against competing compilers are obviously necessary not to fall behind, but a more creative approach can lead to unexpected low-hanging fruits: benchmarking non-default compiler configurations potentially produces better performance, giving the opportunity to fix the suboptimal pattern present in the compiler. <br><br> Moreover, we'll see how this hyperparameter analysis helped in understanding the compiler's trade-offs and in finding optimal default values for all compiler options. From there, we can also go a step further and expose those trade-offs to let the users take the best decision based on their scenario. |
+| **Bio**      | François Farquet is a Principal Performance Engineer at Oracle located somewhere in the Swiss Alps. He is a member of the GraalVM compiler team in charge of benchmarking, performance tracking and hyperparameter tuning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
 {:.table .table-sm}
 
 ## Organizers
