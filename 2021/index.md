@@ -49,7 +49,7 @@ All times EST (UTC-5).
 | 12:00&nbsp;PM |  3:00&nbsp;PM | **Break**                                                                              |                                             |
 |  3:00&nbsp;PM |  3:30&nbsp;PM | Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
 |  3:30&nbsp;PM |  4:00&nbsp;PM | Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
-|  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session                                                                          |                                             |
+|  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session: Graal on AArch64                                                        |                                             |
 {:.table .table-sm}
 
 ### Keynote
@@ -59,6 +59,21 @@ All times EST (UTC-5).
 | **Title**    | Explore speedup opportunities in the GraalVM compiler                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 |
 | **Abstract** | This talk will cover the different approaches the GraalVM compiler team applies in its quest to a better performing compiler, release after release. Regression tracking or comparison against competing compilers are obviously necessary not to fall behind, but a more creative approach can lead to unexpected low-hanging fruits: benchmarking non-default compiler configurations potentially produces better performance, giving the opportunity to fix the suboptimal pattern present in the compiler. <br><br> Moreover, we'll see how this hyperparameter analysis helped in understanding the compiler's trade-offs and in finding optimal default values for all compiler options. From there, we can also go a step further and expose those trade-offs to let the users take the best decision based on their scenario. |
 | **Bio**      | François Farquet is a Principal Performance Engineer at Oracle located somewhere in the Swiss Alps. He is a member of the GraalVM compiler team in charge of benchmarking, performance tracking and hyperparameter tuning.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            |
+{:.table .table-sm}
+
+### Panel Session
+
+**Topic**: Graal on AArch64
+
+
+| Name            | Affiliation | Twitter                                         |
+| --------------- | :---------- | :-----------                                    |
+| Monica Beckwith | Microsoft   | [@mon_beck](https://twitter.com/mon_beck)       |
+| Tom Shull       | Oracle Labs |                                                 |
+| Alan Hayward    | Arm         |                                                 |
+| Flavio Brasil   | Twitter     | [@flaviusbraz](https://twitter.com/flaviusbraz) |
+| Tianxiao Gu     | Alibaba     |                                                 |
+| Andrew Dinn     | Red Hat     |                                                 |
 {:.table .table-sm}
 
 ## Organizers
