@@ -11,6 +11,12 @@ title: 2021
 
 **Where:** Virtual.
 
+Participant quick links:
+<br>
+[Whova: Session 1, 8:00&nbsp;AM&ndash;12:00&nbsp;PM](https://whova.com/portal/webapp/ppopp_202102/Agenda/1486769)
+<br>
+[Whova: Session 2, 3:00&nbsp;PM&ndash;5:00&nbsp;PM](https://whova.com/portal/webapp/ppopp_202102/Agenda/1486771)
+
 Researchers and practitioners are invited to participate in the Third Graal Workshop at [CGO 2021](https://conf.researchr.org/home/cgo-2021). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2021), [CC](https://conf.researchr.org/home/CC-2021) and [HPCA](https://hpca-conf.org/2021/).
 
 Topics of interest (not limited to):
