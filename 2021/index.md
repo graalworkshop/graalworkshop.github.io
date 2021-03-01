@@ -25,20 +25,20 @@ Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/sea
 
 All times EST (UTC-5).
 
-| Start         | End           | Title                                                                                  | Speaker(s)                                  |
-| ------------: | ------------: | :------------------------------------------------------------------------------------- | :------------------------------------------ |
-|  8:00&nbsp;AM |  8:05&nbsp;AM | Welcome                                                                                | Uma Srinivasan                              |
-|  8:05&nbsp;AM |  9:00&nbsp;AM | Keynote: Explore speedup opportunities in the GraalVM compiler                         | François Farquet                            |
-|  9:00&nbsp;AM |  9:30&nbsp;AM | Babashka: a native Clojure interpreter for scripting.                                  | Michiel Borkent                             |
-|  9:30&nbsp;AM | 10:00&nbsp;AM | Truffle Startup and Warmup Challenges and Opportunities                                | Chris Seaton                                |
-| 10:00&nbsp;AM | 10:30&nbsp;AM | One more gap bridged towards practice -- support serialization feature in native image | Ziyi Lin, Wei Kuai, and Sanhong Li          |
-| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving Compiler Optimizations by Employing Machine Learning                         | Raphael Mosaner                             |
-| 11:00&nbsp;AM | 11:30&nbsp;AM | GraalVM at Facebook                                                                    | Chen Li                                     |
-| 11:30&nbsp;AM | 12:00&nbsp;PM | Tracking Performance of Graal on Public Benchmarks                                     | Petr Tuma, Vojtěch Horký, and Lubomír Bulej |
-| 12:00&nbsp;PM |  3:00&nbsp;PM | **Break**                                                                              |                                             |
-|  3:00&nbsp;PM |  3:30&nbsp;PM | Performance understanding tools for GraalVM using eBPF                                 | Andy Nisbet, Salim Salim, and Mikel Lujan   |
-|  3:30&nbsp;PM |  4:00&nbsp;PM | Strato (Twitter PaaS) & Graal Native Image                                             | Anton Panasenko                             |
-|  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session: Graal on AArch64                                                        |                                             |
+| Start         | End           | Title                                                                                                                                                                                        | Speaker(s)                                  |
+| ------------: | ------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
+|  8:00&nbsp;AM |  8:05&nbsp;AM | Welcome                                                                                                                                                                                      | Uma Srinivasan                              |
+|  8:05&nbsp;AM |  9:00&nbsp;AM | [Keynote: Exploring speedup opportunities in the GraalVM compiler](slides/0_Keynote_Exploring_speedup_opportunities_in_the_GraalVM_compiler.pdf)                                             | François Farquet                            |
+|  9:00&nbsp;AM |  9:30&nbsp;AM | [Babashka: a native Clojure interpreter for scripting.](slides/1_Babashka_a_native_Clojure_interpreter_for_scripting.pdf)                                                                    | Michiel Borkent                             |
+|  9:30&nbsp;AM | 10:00&nbsp;AM | Truffle Startup and Warmup Challenges and Opportunities                                                                                                                                      | Chris Seaton                                |
+| 10:00&nbsp;AM | 10:30&nbsp;AM | [One more gap bridged towards practice -- support serialization feature in native image](slides/3_One_more_gap_bridged_towards_practice_-_support_serialization_feature_in_native_image.pdf) | Ziyi Lin, Wei Kuai, and Sanhong Li          |
+| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving Compiler Optimizations by Employing Machine Learning                                                                                                                               | Raphael Mosaner                             |
+| 11:00&nbsp;AM | 11:30&nbsp;AM | [GraalVM at Facebook](slides/5_GraalVM_at_Facebook.pdf)                                                                                                                                      | Chen Li                                     |
+| 11:30&nbsp;AM | 12:00&nbsp;PM | [Tracking Performance of Graal on Public Benchmarks](slides/6_Tracking_Performance_of_Graal_on_Public_Benchmarks.pdf)                                                                        | Petr Tuma, Vojtěch Horký, and Lubomír Bulej |
+| 12:00&nbsp;PM |  3:00&nbsp;PM | **Break**                                                                                                                                                                                    |                                             |
+|  3:00&nbsp;PM |  3:30&nbsp;PM | [Performance understanding tools for GraalVM using eBPF](slides/7_Performance_understanding_tools_for_GraalVM_using_eBPF.pdf)                                                                | Andy Nisbet, Salim Salim, and Mikel Lujan   |
+|  3:30&nbsp;PM |  4:00&nbsp;PM | [Strato (Twitter PaaS) & Graal Native Image](slides/8_Strato_and_Graal_Native_Image.pdf)                                                                                                     | Anton Panasenko                             |
+|  4:00&nbsp;PM |  5:00&nbsp;PM | Panel Session: Graal on AArch64                                                                                                                                                              |                                             |
 {:.table .table-sm}
 
 ### Keynote
