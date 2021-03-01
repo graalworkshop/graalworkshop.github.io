@@ -1,7 +1,0 @@
-2021/slides/0_Keynote_Exploring_speedup_opportunities_in_the_GraalVM_compiler.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/1_Babashka_a_native_Clojure_interpreter_for_scripting.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/3_One_more_gap_bridged_towards_practice_-_support_serialization_feature_in_native_image.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/5_GraalVM_at_Facebook.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/6_Tracking_Performance_of_Graal_on_Public_Benchmarks.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/7_Performance_understanding_tools_for_GraalVM_using_eBPF.pdf filter=lfs diff=lfs merge=lfs -text
-2021/slides/8_Strato_and_Graal_Native_Image.pdf filter=lfs diff=lfs merge=lfs -text
