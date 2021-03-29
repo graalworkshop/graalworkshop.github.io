@@ -26,7 +26,7 @@ Topics for discussion included exploring speedup opportunities in the GraalVM co
 
 All times EST (UTC-5).
 
-| Start         | End           | Title                                                                                 | Resources                                                                                                                                                          | Speaker(s)                                  |
+| Start         | End           | Title                                                                                 | Resources                                                                                                                                                          | Speaker                                     |
 | ------------: | ------------: | :------------------------------------------------------------------------------------ | :----------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------------------------------ |
 | 8:00&nbsp;AM  | 8:05&nbsp;AM  | Welcome                                                                               | [Slides](slides/Welcome.pdf)                                                                                                                                       | Uma Srinivasan                              |
 | 8:05&nbsp;AM  | 9:00&nbsp;AM  | Keynote: Exploring speedup opportunities in the GraalVM compiler                      | [Slides](slides/0_Keynote_Exploring_speedup_opportunities_in_the_GraalVM_compiler.pdf)                        [Video](https://www.youtube.com/watch?v=ri-7s5iPzFc) | François Farquet                            |
