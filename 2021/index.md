@@ -5,21 +5,22 @@ title: 2021
 
 # Science, Art, Magic: Using and Developing The Graal Compiler
 
-**What:** Third Graal Workshop at [CGO](https://www.cgo.org).
-
-**When:** February 27, 2021. ([See program for times in your time zone](https://conf.researchr.org/program/cgo-2021/program-cgo-2021))
-
-**Where:** Virtual.
-
-Researchers and practitioners are invited to participate in the Third Graal Workshop at [CGO 2021](https://conf.researchr.org/home/cgo-2021). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2021), [CC](https://conf.researchr.org/home/CC-2021) and [HPCA](https://hpca-conf.org/2021/).
-
-Topics of interest (not limited to):
-- making effective use of the [GraalVM compiler](https://github.com/oracle/graal),
-- performance evaluations and opportunities with GraalVM on benchmarks and applications,
-- developing new features and optimizations in GraalVM,
-- creative and novel uses of the GraalVM compiler infrastructure.
+The Third Graal Workshop was held virtually at [CGO](https://www.cgo.org) on February 27, 2021.
 
 Talk about the workshop on Twitter using [#graalcgo2021](https://twitter.com/search?q=%23graalcgo2021) and follow us [@graalcgo](https://twitter.com/graalcgo).
+
+You can find the recordings for all sessions on [YouTube](https://www.youtube.com/playlist?list=PL5s7-0PKqopPJCpW3wThCBd-Hn3fAk5wl) and individual video links below.
+
+<style>
+    img.half-width {
+        width: 49%;
+    }
+</style>
+
+[![Group photo from the first session](images/session1.png){:.img-fluid .half-width}](images/session1.png)
+[![Group photo from the second session](images/session2.png){:.img-fluid .half-width}](images/session2.png)
+
+Topics for discussion included exploring speedup opportunities in the GraalVM compiler, novel uses of GraalVM's infrastructure, new features in GraalVM, and benchmarking the GraalVM compiler.
 
 ## Program
 
