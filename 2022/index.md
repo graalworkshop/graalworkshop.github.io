@@ -3,7 +3,7 @@ layout: year
 title: 2022
 ---
 
-# Science, Art, Voodoo: Using and Developing The Graal Compiler
+# Science, Art, Magic: Using and Developing The Graal Compiler
 
 **What:** Fourth Graal Workshop at [CGO](https://www.cgo.org).
 
