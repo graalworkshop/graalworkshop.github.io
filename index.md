@@ -14,4 +14,4 @@ infrastructure.
 * [2019, Washington DC](2019/)
 * [2020, San Diego CA](2020/)
 * [2021, Virtual](2021/)
-* [2022, Seoul / Virtual Hybrid](2022/)
+* [2022, Virtual](2022/)
