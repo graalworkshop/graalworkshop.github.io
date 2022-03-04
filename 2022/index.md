@@ -32,7 +32,7 @@ We may be able to accommodate more talks of shorter duration depending on submis
 ## Talk proposal submission format
 Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is February 15, 2022. Notifications to authors will be provided by March 5, 2022.
 
-[Submit your proposals](https://easychair.org/conferences/?conf=graalcgo2022)
+*Submissions are currently closed.*
 
 ## Organizers
 
