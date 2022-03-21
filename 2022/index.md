@@ -35,15 +35,9 @@ Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/sea
 ## Workshop format
 - Invited keynote speech,
 - approximately 5 (30-minute) presentations,
-- panel discussion,
-- virtual breakout rooms.
+- lightning talks.
 
-We may be able to accommodate more talks of shorter duration depending on submissions.
-
-## Talk proposal submission format
-Abstracts (2 to 3 paragraphs), full papers or slides submissions are accepted. The deadline for receiving submissions is February 15, 2022. Notifications to authors will be provided by March 5, 2022.
-
-*Submissions are currently closed.*
+*Submissions are closed.*
 
 ## Organizers
 
