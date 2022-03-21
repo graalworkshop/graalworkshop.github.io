@@ -39,6 +39,21 @@ Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/sea
 
 *Submissions are closed.*
 
+## Program
+
+Times TBC.
+
+| Title                                                                 | Author(s)                                                  |
+| :-------------------------------------------------------------------- | :--------------------------------------------------------- |
+| Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
+| Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
+| Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
+| TruffleString: highly optimized cross-language string implementation. | Josef Haider                                               |
+| State of AArch64 on GraalVM                                           | Thomas Shull                                               |
+| Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
+| Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
+{:.table .table-sm}
+
 ## Organizers
 
 | Name            | Email                                                     | Twitter                                         |
