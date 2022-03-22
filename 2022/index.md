@@ -45,6 +45,7 @@ Times TBC.
 
 | Title                                                                 | Author(s)                                                  |
 | :-------------------------------------------------------------------- | :--------------------------------------------------------- |
+| Keynote: Static Java: The GraalVM Native Image Programming Model      | Christian Wimmer                                           |
 | Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
 | Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
 | Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
@@ -52,6 +53,15 @@ Times TBC.
 | State of AArch64 on GraalVM                                           | Thomas Shull                                               |
 | Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
 | Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
+{:.table .table-sm}
+
+### Keynote
+
+| ------------ | --- |
+| **Speaker**  | Christian Wimmer (Oracle Labs) |
+| **Title**    | Static Java: The GraalVM Native Image Programming Model |
+| **Abstract** | In this talk we will present our vision for "Static Java": the programming model enabled by GraalVM Native Image. Applications are initialized at image build time, to allow fast startup time and low memory footprint at run time. Counterintuitively, the ahead-of-time compilation of Java bytecode to machine code is not part of the programming model. But since it is an important implementation detail, we will also talk about the benefits and problems of compiling ahead-of-time compilation. We will show where static analysis helps, what the limitations of static analysis are, which compiler optimizations work well both for JIT and AOT compilation, and where additional compiler phases for AOT compilation are necessary. |
+| **Bio**      | Christian Wimmer is the architect of GraalVM Native Image. He was one of the first engineers of the GraalVM project, and helped growing it from a research project of Oracle Labs to a supported Oracle product. He believes that all languages should be equally fast, and that we therefore need to stop writing individual VMs and instead have one polyglot VM. His research interests span from compilers, virtual machines, and secure systems to component-based software architectures. [More info](https://conf.researchr.org/profile/cgo-2022/christianwimmer). |
 {:.table .table-sm}
 
 ## Organizers
