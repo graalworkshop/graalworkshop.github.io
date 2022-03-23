@@ -41,18 +41,22 @@ Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/sea
 
 ## Program
 
-Times TBC.
+All times EDT (UTC-4).
 
-| Title                                                                 | Author(s)                                                  |
-| :-------------------------------------------------------------------- | :--------------------------------------------------------- |
-| Keynote: Static Java: The GraalVM Native Image Programming Model      | Christian Wimmer                                           |
-| Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
-| Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
-| Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
-| TruffleString: highly optimized cross-language string implementation. | Josef Haider                                               |
-| State of AArch64 on GraalVM                                           | Thomas Shull                                               |
-| Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
-| Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
+| Start         | End           | Title                                                                 | Author(s)                                                  |
+| ------------: | ------------: | :-------------------------------------------------------------------- | :--------------------------------------------------------- |
+|  9:00&nbsp;AM | 9:25&nbsp;AM  | Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
+|  9:30&nbsp;AM | 9:55&nbsp;AM  | Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
+| 10:00&nbsp;AM | 10:25&nbsp;AM | Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
+| 10:30&nbsp;AM | 10:55&nbsp;AM | TruffleString: highly optimized cross-language string implementation. | Josef Haider                                               |
+| 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                            |
+| 11:30&nbsp;AM | 11:55&nbsp;AM | State of AArch64 on GraalVM                                           | Thomas Shull                                               |
+| 12:00&nbsp;PM | 12:55&nbsp;PM | Keynote: Static Java: The GraalVM Native Image Programming Model      | Christian Wimmer                                           |
+| 1:00&nbsp;PM  | 5:00&nbsp;PM  | **Break**                                                             |                                                            |
+| 5:00&nbsp;PM  | 5:25&nbsp;PM  | Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
+| 5:30&nbsp;PM  | 5:55&nbsp;PM  | Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
+| 6:00&nbsp;PM  | 6:30&nbsp;PM  | **Break**                                                             |                                                            |
+| 6:30&nbsp;PM  | 7:30&nbsp;PM  | Lightning Talks                                                       |                                                            |
 {:.table .table-sm}
 
 ### Keynote
