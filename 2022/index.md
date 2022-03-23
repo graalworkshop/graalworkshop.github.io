@@ -39,7 +39,7 @@ Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/sea
 
 *Submissions are closed.*
 
-## Program
+## Tentative program
 
 All times EDT (UTC-4).
 
@@ -77,7 +77,7 @@ All times EDT (UTC-4).
 | Uma Srinivasan  | [usrinivasan@twitter.com](mailto:usrinivasan@twitter.com) | [@umatweep](https://twitter.com/umatweep)       |
 {:.table .table-sm}
 
-## Program Committee
+## Program committee
 
 Christian Wimmer (Oracle Labs), David Leopoldseder (Oracle Labs/JKU Linz), Niklas Vangerow (Twitter),
 Kingsum Chow (Alibaba), Kevin Menard (Shopify), Monica Beckwith (Microsoft), Uma Srinivasan (Twitter).
