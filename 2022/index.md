@@ -56,7 +56,8 @@ All times EDT (UTC-4).
 |  1:00&nbsp;PM |  1:30&nbsp;PM | Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
 |  1:30&nbsp;PM |  2:00&nbsp;PM | Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
 |  2:00&nbsp;PM |  2:30&nbsp;PM | **Break**                                                             |                                                            |
-|  2:30&nbsp;PM |  3:30&nbsp;PM | Lightning Talks                                                       |                                                            |
+|  2:30&nbsp;PM |  3:45&nbsp;PM | Lightning Talks                                                       |                                                            |
+|  3:45&nbsp;PM |  4:00&nbsp;PM | Closing remarks &amp; survey                                          | Uma Srinivasan and Niklas Vangerow                         |
 {:.table .table-sm}
 
 ### Keynote
