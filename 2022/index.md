@@ -45,18 +45,18 @@ All times EDT (UTC-4).
 
 | Start         | End           | Title                                                                 | Author(s)                                                  |
 | ------------: | ------------: | :-------------------------------------------------------------------- | :--------------------------------------------------------- |
-|  9:00&nbsp;AM | 9:25&nbsp;AM  | Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
-|  9:30&nbsp;AM | 9:55&nbsp;AM  | Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
-| 10:00&nbsp;AM | 10:25&nbsp;AM | Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
-| 10:30&nbsp;AM | 10:55&nbsp;AM | TruffleString: highly optimized cross-language string implementation. | Josef Haider                                               |
+|  9:00&nbsp;AM |  9:05&nbsp;AM | Welcome                                                               | Niklas Vangerow                                            |
+|  9:05&nbsp;AM | 10:00&nbsp;AM | Keynote: Static Java: The GraalVM Native Image Programming Model      | Christian Wimmer                                           |
+| 10:00&nbsp;AM | 10:30&nbsp;AM | Faster Native Image development build times with Quick Build mode     | Carlo Refice                                               |
+| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving GraalVM Reflection File Generation                          | Nicolas Toper and Marcus Engene                            |
 | 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                            |
-| 11:30&nbsp;AM | 11:55&nbsp;AM | State of AArch64 on GraalVM                                           | Thomas Shull                                               |
-| 12:00&nbsp;PM | 12:55&nbsp;PM | Keynote: Static Java: The GraalVM Native Image Programming Model      | Christian Wimmer                                           |
-| 1:00&nbsp;PM  | 5:00&nbsp;PM  | **Break**                                                             |                                                            |
-| 5:00&nbsp;PM  | 5:25&nbsp;PM  | Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
-| 5:30&nbsp;PM  | 5:55&nbsp;PM  | Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
-| 6:00&nbsp;PM  | 6:30&nbsp;PM  | **Break**                                                             |                                                            |
-| 6:30&nbsp;PM  | 7:30&nbsp;PM  | Lightning Talks                                                       |                                                            |
+| 11:30&nbsp;AM | 12:00&nbsp;PM | Truffle Interpreter Performance without the Holy Graal                | Stefan Marr, Octave Larose, Sophie Kaleba and Chris Seaton |
+| 12:00&nbsp;PM | 12:30&nbsp;PM | TruffleString: highly optimized cross-language string implementation. | Josef Haider                                               |
+| 12:30&nbsp;PM |  1:00&nbsp;PM | State of AArch64 on GraalVM                                           | Thomas Shull                                               |
+|  1:00&nbsp;PM |  1:30&nbsp;PM | Call-Target Agnostic Keyword Arguments                                | Maple Ong and Chris Seaton                                 |
+|  1:30&nbsp;PM |  2:00&nbsp;PM | Tuning autovectorization in Graal                                     | Yunjie Pan                                                 |
+|  2:00&nbsp;PM |  2:30&nbsp;PM | **Break**                                                             |                                                            |
+|  2:30&nbsp;PM |  3:30&nbsp;PM | Lightning Talks                                                       |                                                            |
 {:.table .table-sm}
 
 ### Keynote
