@@ -39,7 +39,7 @@ Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/sea
 
 *Submissions are closed.*
 
-## Tentative program
+## Program
 
 All times EDT (UTC-4).
 
