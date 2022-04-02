@@ -11,6 +11,7 @@ title: 2022
 
 **Where:** Virtual.
 
+Participant quick link: [Whova](https://whova.com/portal/webapp/ppopp_202204/Agenda/2239303)
 
 Researchers and practitioners are invited to the Fourth Graal Workshop to be held at [CGO 2022](https://conf.researchr.org/home/cgo-2022). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2022), [CC](https://conf.researchr.org/home/CC-2022) and [HPCA](https://hpca-conf.org/2022/).
 
