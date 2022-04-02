@@ -11,16 +11,6 @@ title: 2022
 
 **Where:** Virtual.
 
-<style>
-  .registration {
-    text-decoration: underline;
-    font-size: 3vw;
-    text-align: center;
-  }
-</style>
-
-[&#x27A1; REGISTER HERE &#x2B05;](https://conf.researchr.org/attending/cgo-2022/registration)
-{:.registration}
 
 Researchers and practitioners are invited to the Fourth Graal Workshop to be held at [CGO 2022](https://conf.researchr.org/home/cgo-2022). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2022), [CC](https://conf.researchr.org/home/CC-2022) and [HPCA](https://hpca-conf.org/2022/).
 
