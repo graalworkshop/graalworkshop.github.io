@@ -5,28 +5,11 @@ title: 2022
 
 # Science, Art, Magic: Using and Developing The Graal Compiler
 
-**What:** Fourth Graal Workshop at [CGO](https://www.cgo.org).
-
-**When:** April 2, 2022. ([See program for times in your time zone](https://conf.researchr.org/program/cgo-2022/program-cgo-2022))
-
-**Where:** Virtual.
-
-Researchers and practitioners are invited to the Fourth Graal Workshop to be held at [CGO 2022](https://conf.researchr.org/home/cgo-2022). The workshop is virtually co-located with [PPoPP](https://conf.researchr.org/home/PPoPP-2022), [CC](https://conf.researchr.org/home/CC-2022) and [HPCA](https://hpca-conf.org/2022/).
-
-Topics of interest (not limited to):
-- making effective use of the [GraalVM compiler](https://github.com/oracle/graal),
-- performance evaluations and opportunities with GraalVM on benchmarks and applications,
-- developing new features and optimizations in GraalVM,
-- creative and novel uses of the GraalVM compiler infrastructure.
+The Fourth Graal Workshop was held virtually at [CGO](https://www.cgo.org) on April 2, 2022.
 
 Talk about the workshop on Twitter using [#graalcgo2022](https://twitter.com/search?q=%23graalcgo2022) and follow us [@graalcgo](https://twitter.com/graalcgo).
 
-## Workshop format
-- Invited keynote speech,
-- approximately 5 (30-minute) presentations,
-- lightning talks.
-
-*Submissions are closed.*
+Topics for discussion included exploring speedup opportunities with GraalVM Native Image, novel uses of Truffle, and new features in the GraalVM compiler.
 
 ## Program
 
