@@ -18,7 +18,7 @@ All times EDT (UTC-4).
 | Start         | End           | Title                                                                 | Resources                                                                     | Speaker(s)                 |
 | ------------: | ------------: | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :------------------------- |
 | 9:00&nbsp;AM  | 9:05&nbsp;AM  | Welcome                                                               |                                                                               | Niklas Vangerow            |
-| 9:05&nbsp;AM  | 10:00&nbsp;AM | Keynote: Static Java: The GraalVM Native Image Programming Model      | Coming soon                                                                   | Christian Wimmer           |
+| 9:05&nbsp;AM  | 10:00&nbsp;AM | Keynote: Static Java: The GraalVM Native Image Programming Model      | [Slides](slides/0_Native_Image_Programming_Model.pdf)                         | Christian Wimmer           |
 | 10:00&nbsp;AM | 10:30&nbsp;AM | Faster Native Image development build times with Quick Build mode     | [Slides](slides/1_Quick_build_Mode.pdf)                                       | Carlo Refice               |
 | 10:30&nbsp;AM | 11:00&nbsp;AM | Improving GraalVM Reflection File Generation                          | [Slides](slides/2_Improving_GraalVM_Reflection_File_Generation.pdf)           | Nicolas Toper              |
 | 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                                               |                            |
