@@ -24,7 +24,7 @@ All times EDT (UTC-4).
 | 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                                               |                            |
 | 11:30&nbsp;AM | 12:00&nbsp;PM | Truffle Interpreter Performance without the Holy Graal                | [Slides](slides/3_Truffle_Interpreter_Performance_without_the_Holy_Graal.pdf) | Stefan Marr                |
 | 12:00&nbsp;PM | 12:30&nbsp;PM | TruffleString: highly optimized cross-language string implementation. | [Slides](slides/4_TruffleStrings.pdf)                                         | Josef Haider               |
-| 12:30&nbsp;PM | 1:00&nbsp;PM  | State of AArch64 on GraalVM                                           | Coming soon                                                                   | Thomas Shull               |
+| 12:30&nbsp;PM | 1:00&nbsp;PM  | State of AArch64 on GraalVM                                           | [Slides](slides/5_GraalVM_State_of_AArch64.pdf)                               | Thomas Shull               |
 | 1:00&nbsp;PM  | 1:30&nbsp;PM  | Call-Target Agnostic Keyword Arguments                                | [Slides](slides/6_Call-Target_Agnostic_Keyword_Arguments.pdf)                 | Maple Ong and Chris Seaton |
 | 1:30&nbsp;PM  | 2:00&nbsp;PM  | Tuning autovectorization in Graal                                     | [Slides](slides/7_Tuning_Autovectorization_in_Graal.pdf)                      | Yunjie Pan                 |
 | 2:00&nbsp;PM  | 2:30&nbsp;PM  | **Break**                                                             |                                                                               |                            |
