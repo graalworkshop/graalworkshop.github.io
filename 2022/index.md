@@ -15,21 +15,21 @@ Topics for discussion included exploring speedup opportunities with GraalVM Nati
 
 All times EDT (UTC-4).
 
-| Start         | End           | Title                                                                 | Resources                                                                     | Speaker(s)                 |
-| ------------: | ------------: | :-------------------------------------------------------------------- | :---------------------------------------------------------------------------- | :------------------------- |
-| 9:00&nbsp;AM  | 9:05&nbsp;AM  | Welcome                                                               |                                                                               | Niklas Vangerow            |
-| 9:05&nbsp;AM  | 10:00&nbsp;AM | Keynote: Static Java: The GraalVM Native Image Programming Model      | [Slides](slides/0_Native_Image_Programming_Model.pdf)                         | Christian Wimmer           |
-| 10:00&nbsp;AM | 10:30&nbsp;AM | Faster Native Image development build times with Quick Build mode     | [Slides](slides/1_Quick_build_Mode.pdf)                                       | Carlo Refice               |
-| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving GraalVM Reflection File Generation                          | [Slides](slides/2_Improving_GraalVM_Reflection_File_Generation.pdf)           | Nicolas Toper              |
-| 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                                               |                            |
-| 11:30&nbsp;AM | 12:00&nbsp;PM | Truffle Interpreter Performance without the Holy Graal                | [Slides](slides/3_Truffle_Interpreter_Performance_without_the_Holy_Graal.pdf) | Stefan Marr                |
-| 12:00&nbsp;PM | 12:30&nbsp;PM | TruffleString: highly optimized cross-language string implementation. | [Slides](slides/4_TruffleStrings.pdf)                                         | Josef Haider               |
-| 12:30&nbsp;PM | 1:00&nbsp;PM  | State of AArch64 on GraalVM                                           | [Slides](slides/5_GraalVM_State_of_AArch64.pdf)                               | Thomas Shull               |
-| 1:00&nbsp;PM  | 1:30&nbsp;PM  | Call-Target Agnostic Keyword Arguments                                | [Slides](slides/6_Call-Target_Agnostic_Keyword_Arguments.pdf)                 | Maple Ong and Chris Seaton |
-| 1:30&nbsp;PM  | 2:00&nbsp;PM  | Tuning autovectorization in Graal                                     | [Slides](slides/7_Tuning_Autovectorization_in_Graal.pdf)                      | Yunjie Pan                 |
-| 2:00&nbsp;PM  | 2:30&nbsp;PM  | **Break**                                                             |                                                                               |                            |
-| 2:30&nbsp;PM  | 3:45&nbsp;PM  | Lightning Talks                                                       |                                                                               |                            |
-| 3:45&nbsp;PM  | 4:00&nbsp;PM  | Closing remarks &amp; survey                                          |                                                                               | Uma Srinivasan             |
+| Start         | End           | Title                                                                 | Resources                                                                                                                | Speaker(s)                 |
+| ------------: | ------------: | :-------------------------------------------------------------------- | :----------------------------------------------------------------------------------------------------------------------- | :------------------------- |
+| 9:00&nbsp;AM  | 9:05&nbsp;AM  | Welcome                                                               |                                                                                                                          | Niklas Vangerow            |
+| 9:05&nbsp;AM  | 10:00&nbsp;AM | Keynote: Static Java: The GraalVM Native Image Programming Model      | [Slides](slides/0_Native_Image_Programming_Model.pdf), [Recording](https://youtu.be/qNG0fFBpUGU)                         | Christian Wimmer           |
+| 10:00&nbsp;AM | 10:30&nbsp;AM | Faster Native Image development build times with Quick Build mode     | [Slides](slides/1_Quick_build_Mode.pdf), [Recording](https://youtu.be/TY-2G4ulEBc)                                       | Carlo Refice               |
+| 10:30&nbsp;AM | 11:00&nbsp;AM | Improving GraalVM Reflection File Generation                          | [Slides](slides/2_Improving_GraalVM_Reflection_File_Generation.pdf), [Recording](https://youtu.be/_LqicKO29lo)           | Nicolas Toper              |
+| 11:00&nbsp;AM | 11:30&nbsp;AM | **Break**                                                             |                                                                                                                          |                            |
+| 11:30&nbsp;AM | 12:00&nbsp;PM | Truffle Interpreter Performance without the Holy Graal                | [Slides](slides/3_Truffle_Interpreter_Performance_without_the_Holy_Graal.pdf), [Recording](https://youtu.be/7ICtHAwELX4) | Stefan Marr                |
+| 12:00&nbsp;PM | 12:30&nbsp;PM | TruffleString: highly optimized cross-language string implementation. | [Slides](slides/4_TruffleStrings.pdf), [Recording](https://youtu.be/wI-qcZUA2vA)                                         | Josef Haider               |
+| 12:30&nbsp;PM | 1:00&nbsp;PM  | State of AArch64 on GraalVM                                           | [Slides](slides/5_GraalVM_State_of_AArch64.pdf), [Recording](https://youtu.be/7Xuy1tFFjSo)                               | Thomas Shull               |
+| 1:00&nbsp;PM  | 1:30&nbsp;PM  | Call-Target Agnostic Keyword Arguments                                | [Slides](slides/6_Call-Target_Agnostic_Keyword_Arguments.pdf), [Recording](https://youtu.be/RVqY1FRUm_8)                 | Maple Ong and Chris Seaton |
+| 1:30&nbsp;PM  | 2:00&nbsp;PM  | Tuning autovectorization in Graal                                     | [Slides](slides/7_Tuning_Autovectorization_in_Graal.pdf), [Recording](https://youtu.be/DDD0T_6y1Lw)                      | Yunjie Pan                 |
+| 2:00&nbsp;PM  | 2:30&nbsp;PM  | **Break**                                                             |                                                                                                                          |                            |
+| 2:30&nbsp;PM  | 3:45&nbsp;PM  | Lightning Talks                                                       |                                                                                                                          |                            |
+| 3:45&nbsp;PM  | 4:00&nbsp;PM  | Closing remarks &amp; survey                                          |                                                                                                                          | Uma Srinivasan             |
 {:.table .table-sm}
 
 ### Keynote
